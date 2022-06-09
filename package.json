@@ -1,0 +1,27 @@
+{
+  "name": "todo-app-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trefu/todo-app-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trefu/todo-app-back/issues"
+  },
+  "homepage": "https://github.com/Trefu/todo-app-back#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "mongoose": "^5.7.13",
+    "nodemon": "^2.0.16"
+  }
+}
